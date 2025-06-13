@@ -28,7 +28,7 @@ So i brought down to a Website using node and html
 3. Download node js into your system
 4. Now from folder open the terminal and run :
    ```bash
-   node server(1).js
+   node server.js
 5. Now you see a link in terminal copy that link and paste in browser.
 6. Log in window pops up use any username and password:
    ```bash
