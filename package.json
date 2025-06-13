@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  },
+  "name": "lan-chat-main",
+  "version": "1.0.0",
+  "description": "Long time ago i had a idea of chatting to my friends over lan but for windows it needs some tools to be downloaded like Netscape and for Linux other  My idea was to setup something in sec and accessible on every system connected including mobile with out any other app installation So i brought down to a Website using node and html",
+  "main": "server (1).js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
